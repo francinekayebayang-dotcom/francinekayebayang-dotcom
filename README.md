@@ -26,5 +26,5 @@ Caraga State UNiversity Cabadbaran Campus , 2026-2027
 
 ## Contact
 - Number : 09382000738
-- Email: francinekayebayang39@gmail.com 
-- LinkedIn:
+- Email: francinekayebayang39@gmail.com
+  
