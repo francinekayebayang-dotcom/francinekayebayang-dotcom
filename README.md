@@ -9,7 +9,7 @@ I am an Information Technology student with a strong interest in software develo
 - Programming Languages: Python, Java
 - Web Development: HTML, CSS, Php
 - Databases: MySQL, MongoDB
-- Tools & Platforms: Git, GitHub, VS Code, Linux
+- Tools & Platforms: Git, GitHub, VS Code,
 - Other: Data Structures, Algorithms
 
 ## Education
